@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Data Science, Xi'an Jiaotong-Liverpool University & University of Liverpool, 08.2024
+* M.S. in Information Engineering, TUM, 03.2025
+% * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+
+
 
 Work experience
 ======
