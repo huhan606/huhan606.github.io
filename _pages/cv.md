@@ -13,7 +13,8 @@ Education
 ======
 * B.S. in Data Science, Xi'an Jiaotong-Liverpool University & University of Liverpool, 08.2024
 * M.S. in Information Engineering, TUM, 03.2025
-% * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 
 
